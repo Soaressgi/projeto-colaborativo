@@ -1,0 +1,4 @@
+Configurar ambiente
+Criar estrutura do projeto
+Inicialização com git
+Primeiro contato com angular e nestjs
